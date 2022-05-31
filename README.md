@@ -1,1 +1,1 @@
-Displays last four lines
+Displays last ten lines
