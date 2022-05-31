@@ -1,1 +1,1 @@
-Hello world script
+One confused emoji
