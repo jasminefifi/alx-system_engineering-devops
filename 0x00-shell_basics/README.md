@@ -1,1 +1,1 @@
-Deletes all files ending with `~` in the current working directory
+Creates three new directories in current directory
