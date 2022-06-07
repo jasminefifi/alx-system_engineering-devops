@@ -1,1 +1,1 @@
-Displays the last lines of a file
+Displays first lines of a file
