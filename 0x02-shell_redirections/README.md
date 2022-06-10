@@ -1,1 +1,1 @@
-Displays line containing the pattern `root` in a file
+Displays the number of lines that contain the pattern “bin” in the file /etc/passwd
